@@ -2,13 +2,13 @@
 
 * Main server: 10.5.5.9
 
-* Port: 8080
+* Port: 80/8080
 
 * Directory 1: videos/DCIM
 
 * Directory 2: videos/DCIM/100GOPRO
 
-* Fotmats: Photo (JPG), HD video (MP4), Low resolution video (LRV), Video thumnail(THM).
+* Fotmats: Photo (JPG), HD video (MP4), Low resolution video (LRV), Video thumbnail (THM).
 
 ---
 
@@ -18,4 +18,4 @@
 
 THE HD VIDEO TAKES A LOT OF TIME TO DOWNLOAD.
 
-Directories vary between hero cameras.
+Directories vary between Hero cameras.
