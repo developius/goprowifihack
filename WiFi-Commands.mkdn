@@ -1,5 +1,7 @@
+URL structure:
+http://10.5.5.9/<bacpac|camera>/<cmd>?t=<PSWD>&p=%<num>
+Simply replace <PSWD> with your GoPro's WiFi password and <num> with the two digit number for the command you want.
 ###Basics:
-
 * bacpac PW - 00 Turn GoPro OFF
 
 * bacpac PW - 01 Turn GoPro ON
